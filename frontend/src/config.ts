@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://townsquare.gb8986.workers.dev"
